@@ -229,42 +229,6 @@ https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 #EXTINF:-1,tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球 8M
 https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
-#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV-1高清
-https://live.v1.mk/api/fjgd.php?id=cctv1
-#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV-2高清
-https://live.v1.mk/api/fjgd.php?id=cctv2
-#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV-3高清
-https://live.v1.mk/api/fjgd.php?id=cctv3
-#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV-4高清
-https://live.v1.mk/api/fjgd.php?id=cctv4
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5高清
-https://live.v1.mk/api/fjgd.php?id=cctv5
-#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV-5P高清
-https://live.v1.mk/api/fjgd.php?id=cctv5p
-#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV-6高清
-https://live.v1.mk/api/fjgd.php?id=cctv6
-#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV-7高清
-https://live.v1.mk/api/fjgd.php?id=cctv7
-#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV-8高清
-https://live.v1.mk/api/fjgd.php?id=cctv8
-#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV-9高清
-https://live.v1.mk/api/fjgd.php?id=cctv9
-#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV-10高清
-https://live.v1.mk/api/fjgd.php?id=cctv10
-#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV-11高清
-https://live.v1.mk/api/fjgd.php?id=cctv11
-#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV-12高清
-https://live.v1.mk/api/fjgd.php?id=cctv12
-#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV-13高清
-https://live.v1.mk/api/fjgd.php?id=cctv13
-#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV-14高清
-https://live.v1.mk/api/fjgd.php?id=cctv14
-#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV-15高清
-https://live.v1.mk/api/fjgd.php?id=cctv15
-#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV-16高清
-https://live.v1.mk/api/fjgd.php?id=cctv16
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17高清
-https://live.v1.mk/api/fjgd.php?id=cctv17
 #EXTINF:-1,tvg-id="福建导视高清" tvg-name="福建导视高清" tvg-logo="https://epg.112114.xyz/logo/福建导视.png" group-title="福建",福建导视高清
 https://live.v1.mk/api/fjgd.php?id=fjds
 #EXTINF:-1,tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://epg.112114.xyz/logo/福建综合.png" group-title="福建",福建综合高清
@@ -353,17 +317,3 @@ https://live.v1.mk/api/fjgd.php?id=gdws
 https://live.v1.mk/api/fjgd.php?id=szws
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视高清
 https://live.v1.mk/api/fjgd.php?id=gzws
-#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" group-title="卫视",三沙卫视
-https://live.v1.mk/api/fjgd.php?id=ssws
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影
-https://live.v1.mk/api/fjgd.php?id=chcgq
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影
-https://live.v1.mk/api/fjgd.php?id=chcdz
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院
-https://live.v1.mk/api/fjgd.php?id=chcjt
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通高清
-https://live.v1.mk/api/fjgd.php?id=jykt
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="香港",凤凰中文
-https://live.v1.mk/api/fjgd.php?id=fhzw
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="香港",凤凰资讯
-https://live.v1.mk/api/fjgd.php?id=fhzx
