@@ -1,0 +1,13 @@
+#EXTM3U 
+#EXTINF:-1, tvg-name="寰宇新闻HD"
+https://tvos.ml/youtube/channel/%E5%AF%B0%E5%AE%87%E6%96%B0%E8%81%9E.m3u8
+#EXTINF:-1, tvg-name="凤凰中文"
+https://epg.pw/stream/b9f25afbae52eef8b11f7b793183daf48d2a2bfdca38289cea3a82fb1d3edfec.m3u8
+#EXTINF:-1, tvg-name="第一财经"
+https://epg.pw/stream/6fbafba0e0e2660a056533cae12b82dc3ac8f6ebf27ba095625f1c568495f72c.m3u8
+#EXTINF:-1, tvg-name="星卫HD电影"
+https://epg.pw/stream/262a597b6edc2e838a6e1f14a1c532265995bf0020217726d646e0f7fec12e13.m3u8
+#EXTINF:-1, tvg-name="求索動物"
+https://epg.pw/stream/f30856514cd63d985f9e07c7b1ab3066a69bfb58b7debd6ba924bf885506dab4.m3u8
+#EXTINF:-1, tvg-name="求索紀錄"
+https://epg.pw/stream/d81371984283fda5620048913f3a9c6e31b492d5917bc0f76f9b0d906554eefe.m3u8
