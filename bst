@@ -196,3 +196,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 ,精彩综艺
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226009/index.m3u8
+#EXTINF:-1 group-title="4K",BTV纪实科教 8K
+http://159.75.85.63:6798
+#EXTINF:-1 tvg-name="LoveNrture" group-title="4K",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K",Fashion 4K「时尚」
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="4K",CCTV16 4K
+https://tv.iill.top/bestv/cctv16hd4k/15000000
+#EXTINF:-1 group-title="4K",CCTV 4K
+https://tv.iill.top/bestv/cctv4k/15000000
+#EXTINF:-1 group-title="4K",欢笑剧场 4k
+https://tv.iill.top/bestv/hxjc4k/15000000
+#EXTINF:-1 group-title="4K",影视 4K「移动」
+http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
