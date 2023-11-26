@@ -1,188 +1,15 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="4K频道",CCTV16-4K
-https://live.metshop.top/bestv.php?id=cctv16hd4k/15000000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K
 https://live.metshop.top/bestv.php?id=cctv4k/15000000
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
-https://live.metshop.top/bestv.php?id=hxjc4k/15000000
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1 8M
-https://live.metshop.top/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png" group-title="央视",CCTV2 8M
-https://live.metshop.top/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png" group-title="央视",CCTV3 8M
-https://live.metshop.top/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png" group-title="央视",CCTV4 8M
-https://live.metshop.top/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png" group-title="央视",CCTV5 8M
-https://live.metshop.top/bestv.php?id=cctv58m/8000000
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png" group-title="央视",CCTV5+ 8M
-https://live.metshop.top/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png" group-title="央视",CCTV6 8M
-https://live.metshop.top/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png" group-title="央视",CCTV7 8M
-https://live.metshop.top/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png" group-title="央视",CCTV8 8M
-https://live.metshop.top/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png" group-title="央视",CCTV9 8M
-https://live.metshop.top/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png" group-title="央视",CCTV10 8M
-https://live.metshop.top/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png" group-title="央视",CCTV11 8M
-https://live.metshop.top/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png" group-title="央视",CCTV12 8M
-https://live.metshop.top/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视",CCTV13 8M
-https://live.metshop.top/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png" group-title="央视",CCTV14 8M
-https://live.metshop.top/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png" group-title="央视",CCTV15 8M
-https://live.metshop.top/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" group-title="央视",CCTV16 8M
-https://live.metshop.top/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV17 8M
-https://live.metshop.top/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视",江苏卫视 8M
-https://live.metshop.top/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/广西卫视.png" group-title="卫视",广西卫视 8M
-https://live.metshop.top/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png" group-title="卫视",四川卫视 8M
-https://live.metshop.top/bestv.php?id=scwshd/8000000
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png" group-title="卫视",湖南卫视 8M
-https://live.metshop.top/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视",浙江卫视 8M
-https://live.metshop.top/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视",东方卫视 8M
-https://live.metshop.top/bestv.php?id=dfwshd8m/8000000
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视",北京卫视 8M
-https://live.metshop.top/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png" group-title="卫视",天津卫视 8M
-https://live.metshop.top/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png" group-title="卫视",辽宁卫视 8M
-https://live.metshop.top/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png" group-title="卫视",安徽卫视 8M
-https://live.metshop.top/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视 8M
-https://live.metshop.top/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" group-title="卫视",广东卫视 8M
-https://live.metshop.top/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png" group-title="卫视",深圳卫视 8M
-https://live.metshop.top/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png" group-title="卫视",湖北卫视 8M
-https://live.metshop.top/bestv.php?id=hubeiws8m/8000000
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/吉林卫视.png" group-title="卫视",吉林卫视 8M
-https://live.metshop.top/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png" group-title="卫视",山东卫视 8M
-https://live.metshop.top/bestv.php?id=sdws8m/8000000
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png" group-title="卫视",江西卫视 8M
-https://live.metshop.top/bestv.php?id=jxws8m/8000000
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/河南卫视.png" group-title="卫视",河南卫视 8M
-https://live.metshop.top/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png" group-title="卫视",河北卫视 8M
-https://live.metshop.top/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视 8M
-https://live.metshop.top/bestv.php?id=gswshd8m/8000000
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png" group-title="卫视",重庆卫视 8M
-https://live.metshop.top/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png" group-title="卫视",东南卫视 8M
-https://live.metshop.top/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/云南卫视.png" group-title="卫视",云南卫视 8M
-https://live.metshop.top/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视 8M
-https://live.metshop.top/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视 8M
-https://live.metshop.top/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="其他",欢笑剧场 8M
-https://live.metshop.top/bestv.php?id=hxjc8m/8000000
-#EXTINF:-1 tvg-id="SITV劲爆体育" tvg-name="SITV劲爆体育" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png" group-title="其他",劲爆体育 8M
-https://live.metshop.top/bestv.php?id=jbtyhd8m/8000000
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.112114.xyz/logo/快乐垂钓.png" group-title="其他",快乐垂钓 8M
-https://live.metshop.top/bestv.php?id=klcd8m/8000000
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实 8M
-https://live.metshop.top/bestv.php?id=jyjs8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/戏曲精选.png" group-title="其他",戏曲精选 8M
-https://live.metshop.top/bestv.php?id=xqjx8m/8000000
-#EXTINF:-1 tvg-id="上海第一财*" tvg-name="上海第一财*" tvg-logo="https://epg.112114.xyz/logo/上海第一财*.png" group-title="上海",上海第一财* 8M
-https://live.metshop.top/bestv.php?id=dycjhd8m/8000000
-#EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="其他",上视新闻 8M
-https://live.metshop.top/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.112114.xyz/logo/上海都市.png" group-title="上海",上海都市 8M
-https://live.metshop.top/bestv.php?id=dshd8m/8000000
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://epg.112114.xyz/logo/上海纪实.png" group-title="上海",上海纪实 8M
-https://live.metshop.top/bestv.php?id=jspdhd/4000000
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视 8M
-https://live.metshop.top/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.112114.xyz/logo/五星体育.png" group-title="其他",五星体育 8M
-https://live.metshop.top/bestv.php?id=wxtyhd8m/8000000
-#EXTINF:-1 tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="其他",上视外语 8M
-https://live.metshop.top/bestv.php?id=icshd8m/8000000
-#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://epg.112114.xyz/logo/SITV七彩戏剧.png" group-title="其他",七彩戏剧 8M
-https://live.metshop.top/bestv.php?id=qcxjhd8m/8000000
-#EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://epg.112114.xyz/logo/上海教育台.png" group-title="上海",上海教育 8M
-https://live.metshop.top/bestv.php?id=setvhd/8000000
-#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://epg.112114.xyz/logo/全纪实.png" group-title="其他",全纪实 8M
-https://live.metshop.top/bestv.php?id=qjshd8m/8000000
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="其他",生活时尚 8M
-https://live.metshop.top/bestv.php?id=shss8m/8000000
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="其他",新视觉 8M
-https://live.metshop.top/bestv.php?id=xsjhd8m/8000000
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.112114.xyz/logo/游戏风云.png" group-title="其他",游戏风云 8M
-https://live.metshop.top/bestv.php?id=yxfy8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/热门综艺.png" group-title="其他",热门综艺 8M
-https://live.metshop.top/bestv.php?id=rmzy8m/8000000
-#EXTINF:-1 tvg-id="NEWTV超级体育" tvg-name="NEWTV超级体育" tvg-logo="https://epg.112114.xyz/logo/NEWTV超级体育.png" group-title="其他",超级体育 8M
-https://live.metshop.top/bestv.php?id=qcsj8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/健康养生.png" group-title="其他",健康养生 8M
-https://live.metshop.top/bestv.php?id=jkys8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/百变课堂.png" group-title="其他",百变课堂 8M
-https://live.metshop.top/bestv.php?id=bbkt8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/看天下精选.png" group-title="其他",看天下精选 8M
-https://live.metshop.top/bestv.php?id=ktxjx8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="其他",华语影院 8M
-https://live.metshop.top/bestv.php?id=hyyy8m/8000000
-#EXTINF:-1 tvg-id="电竞天堂" tvg-name="电竞天堂" tvg-logo="https://epg.112114.xyz/logo/电竞天堂.png" group-title="其他",电竞天堂 8M
-https://live.metshop.top/bestv.php?id=djtt8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/青春动漫.png" group-title="其他",青春动漫 8M
-https://live.metshop.top/bestv.php?id=qcdm8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="其他",宝宝动画 8M
-https://live.metshop.top/bestv.php?id=bbdh8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="其他",星光影院 8M
-https://live.metshop.top/bestv.php?id=xgyy8m/8000000
-#EXTINF:-1 tvg-id="红色谍战剧场" tvg-name="红色谍战剧场" tvg-logo="https://epg.112114.xyz/logo/红色谍战剧场.png" group-title="其他",谍战剧场 8M
-https://live.metshop.top/bestv.php?id=dzjc8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/全球大片.png" group-title="其他",全球大片 8M
-https://live.metshop.top/bestv.php?id=qqdp8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/热门剧场.png" group-title="其他",热门剧场 8M
-https://live.metshop.top/bestv.php?id=rmjc8m/8000000
-#EXTINF:-1 tvg-id="陶瓷" tvg-name="陶瓷" tvg-logo="https://epg.112114.xyz/logo/陶瓷.png" group-title="其他",陶瓷高清 8M
-https://live.metshop.top/bestv.php?id=taocihd/8000000
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://epg.112114.xyz/logo/中国教育1台.png" group-title="其他",中国教育-1 8M
-https://live.metshop.top/bestv.php?id=zgjy1t8m/8000000
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育-4 8M
-https://live.metshop.top/bestv.php?id=zgjy4hd8m/8000000
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿 8M
-https://live.metshop.top/bestv.php?id=kkse8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/纪实科教.png" group-title="其他",纪实科教 8M
-https://live.metshop.top/bestv.php?id=dajs8m/8000000
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="其他",茶频道 8M
-https://live.metshop.top/bestv.php?id=cpdhdavs8m/8000000
-#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://epg.112114.xyz/logo/咪咕足球.png" group-title="其他",足球高清 8M
-https://live.metshop.top/bestv.php?id=zqpd8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他",炫动卡通 8M
-https://live.metshop.top/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/东方财*.png" group-title="其他",东方财* 8M
-https://live.metshop.top/bestv.php?id=dfcjhd8m/8000000
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场 8M
-https://live.metshop.top/bestv.php?id=dsjc8m/8000000
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.112114.xyz/logo/动漫秀场.png" group-title="其他",动漫秀场 8M
-https://live.metshop.top/bestv.php?id=dmxc8m/8000000
-#EXTINF:-1 tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="其他",法治天地 8M
-https://live.metshop.top/bestv.php?id=fztd8m/8000000
-#EXTINF:-1 tvg-id="SITV金色学堂" tvg-name="SITV金色学堂" tvg-logo="https://epg.112114.xyz/logo/SITV金色学堂.png" group-title="其他",金色学堂 8M
-https://live.metshop.top/bestv.php?id=jingsepd8m/8000000
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png" group-title="其他",魅力足球 8M
-https://live.metshop.top/bestv.php?id=mlyyhd8m/8000000
-#EXTINF:-1 ,纯享4K
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230974/1.m3u8
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230974/1.m3u8
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+4K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231131/1.m3u8
+8K UHD,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?#EXTINF:-1 ,纯享4K
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 ,欢笑剧场4K[3840*2160]
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -212,3 +39,115 @@ https://tv.iill.top/bestv/cctv4k/15000000
 https://tv.iill.top/bestv/hxjc4k/15000000
 #EXTINF:-1 group-title="4K",影视 4K「移动」
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+//央视
+CCTV1-4K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV3.超清,http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
+CCTV6.超清,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8.超清,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+CCTV-1,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226247/1.m3u8
+CCTV-2,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226220/1.m3u8
+CCTV-3,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226490/1.m3u8
+CCTV-4,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226539/1.m3u8
+CCTV-5,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226587/1.m3u8
+CCTV-5+,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226253/1.m3u8
+CCTV-6,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226492/1.m3u8
+CCTV-7,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226432/1.m3u8
+CCTV-8,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226589/1.m3u8
+CCTV-9,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226434/1.m3u8
+CCTV-10,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226164/1.m3u8
+CCTV-11,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226541/1.m3u8
+CCTV-12,http://[2409:8087:74F1:0021::0008]:80/270000001322/69900158041111100000002147/1.m3u8
+CCTV-13,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226438/1.m3u8
+CCTV-14,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226166/1.m3u8
+CCTV-15,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226616/1.m3u8
+CCTV-16,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226413/1.m3u8
+CCTV-17,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226407/1.m3u8
+央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+高尔夫网球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+怀旧剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+文化精品,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+风云剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+第一剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+风云音乐,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+//卫视
+安徽卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226205/1.m3u8
+江苏卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226157/1.m3u8
+东方卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226155/1.m3u8
+广东卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226180/1.m3u8
+北京卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226161/1.m3u8
+黑龙江卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226142/1.m3u8
+浙江卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226144/1.m3u8
+湖北卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226159/1.m3u8
+山东卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226162/1.m3u8
+湖南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226193/1.m3u8
+天津卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226191/1.m3u8
+东南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226182/1.m3u8
+江西卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226207/1.m3u8
+深圳卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226199/1.m3u8
+辽宁卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226209/1.m3u8
+河北卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226442/1.m3u8
+海南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226450/1.m3u8
+四川卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226454/1.m3u8
+贵州卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226547/1.m3u8
+甘肃卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226240/1.m3u8
+重庆卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226551/1.m3u8
+河南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226614/1.m3u8
+内蒙古卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225664/1.m3u8
+厦门卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225689/1.m3u8
+兵团卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225631/1.m3u8
+西藏卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225698/1.m3u8
+吉林卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226440/1.m3u8
+陕西卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226444/1.m3u8
+广西卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226452/1.m3u8
+云南卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226549/1.m3u8
+新疆卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226608/1.m3u8
+青海卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226606/1.m3u8
+山西卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226604/1.m3u8
+三沙卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226701/1.m3u8
+大湾区卫视,https://php.17186.eu.org/gdtv/web/nfws.m3u8
+宁夏卫视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226693/1.m3u8
+深圳旁边卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰深圳旁边,http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
+CCTV4K,http://ainm.cc/a/play/php/cctv4k.php?id=4khd
+4K修复 7M2160HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com ... 21226463/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com ... 21226465/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com ... 21226462/index.m3u8
+精品纪录,http://ottrrs.hl.chinamobile.com ... 21225672/index.m3u8
+金牌综艺,http://ottrrs.hl.chinamobile.com ... 21225666/index.m3u8
+//少儿
+卡酷少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225643/1.m3u8
+哈哈炫动,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225668/1.m3u8
+金鹰卡通,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225634/1.m3u8
+嘉佳卡通,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225681/1.m3u8
+//上海
+上海都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225673/1.m3u8
+上海外语,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226201/1.m3u8
+欢笑剧场,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226203/1.m3u8
+第一财*,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226172/1.m3u8
+都市剧场,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226176/1.m3u8
+生活时尚,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226358/1.m3u8
+纪实人文,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226174/1.m3u8
+法治天地,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221225627/1.m3u8
+游戏风云,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226187/1.m3u8
+哈哈炫动,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226618/1.m3u8
+动漫秀场,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226197/1.m3u8
+东方财*,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226602/1.m3u8
+//甘肃
+甘肃都市,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226248/1.m3u8
+甘肃经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226252/1.m3u8
+甘肃文化影视,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226287/1.m3u8
+甘肃少儿,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226289/1.m3u8
+甘肃公共应急,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226250/1.m3u8
+兰州新闻综合,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226242/1.m3u8
+兰州生活经济,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226285/1.m3u8
+兰州文旅频道,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226597/1.m3u8
+咪咕综合体育,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
+咪咕精彩足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
+咪咕精彩足球,http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226508/1.m3u8
